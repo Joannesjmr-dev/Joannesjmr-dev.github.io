@@ -1,4 +1,4 @@
-```
+```mermaid
 erDiagram
     AEROPUERTO ||--o{ PROGRAMA_VUELO : "tiene"
     AEROPUERTO ||--o{ ATERRIZAJE : "recibe"
