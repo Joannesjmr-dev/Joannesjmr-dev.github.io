@@ -31,14 +31,6 @@ erDiagram
         int capacidad
     }
     
-    CIUDAD {
-        string nombre PK
-    }
-    
-    PAIS {
-        string nombre PK
-    }
-    
     LINEA_AEREA {
         string nombre PK
     }
