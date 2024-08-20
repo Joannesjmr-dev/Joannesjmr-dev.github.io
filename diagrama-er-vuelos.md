@@ -22,7 +22,7 @@ erDiagram
     }
     
     VUELO {
-        numero_vuelo PK
+        int numero_vuelo PK
         date fecha
         int plazas_vacias
     }
