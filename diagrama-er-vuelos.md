@@ -22,6 +22,7 @@ erDiagram
     }
     
     VUELO {
+        id_vuelo
         date fecha
         int plazas_vacias
     }
